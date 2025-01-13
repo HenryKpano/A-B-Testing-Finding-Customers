@@ -1,7 +1,7 @@
 
 Data Source: Kaggle.(https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset)
 
-Tableau Dashboard Designed: https://public.tableau.com/app/profile/henry.kpano/viz/MarketingStrategyABTestingAnalysis/TestMarketingStrategyAnalysis
+Tableau Dashboard Designed: https://public.tableau.com/app/profile/henry.kpano/viz/MarketingStrategyABTestingAnalysis/ControlMarketingStrategyAnalysis_1
 
 Documentation: 
 
