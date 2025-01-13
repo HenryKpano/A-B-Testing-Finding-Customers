@@ -1,5 +1,5 @@
 
-![Data Source: Kaggle.](https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset)
+Data Source: Kaggle.(https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset)
 
 A/B testing helps in finding a better approach to finding customers, marketing products, getting a higher reach, or anything that helps a business convert most of its target customers into actual customers.
 
