@@ -3,7 +3,7 @@ Data Source: Kaggle.(https://www.kaggle.com/datasets/amirmotefaker/ab-testing-da
 
 Tableau Dashboard Designed: https://public.tableau.com/app/profile/henry.kpano/viz/MarketingStrategyABTestingAnalysis/ControlMarketingStrategyAnalysis_1
 
-Documentation: 
+Documentation: https://henrykpano.medium.com/maximizing-sales-conversions-how-to-use-a-b-testing-to-find-customers-61544e28797d
 
 A/B testing helps in finding a better approach to finding customers, marketing products, getting a higher reach, or anything that helps a business convert most of its target customers into actual customers.
 
